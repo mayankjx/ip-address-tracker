@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "dot-env": "0.0.1",
+    "dotenv": "^10.0.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
