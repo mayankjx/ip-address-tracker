@@ -1,5 +1,7 @@
 # ip-address-tracker
 
+![Screenshot](project-ss.png)
+
 Hello! This is my solution to IP Address Tracker site - Frontend Mentor. This is my second project build with Vue JS. This is the complete solution as per the challenge as I implemented all the mentioned feature. I didnt added the responsive design for mobile and hover states, under the hood logics are working fine and optimized few bugs.
 
 ## Challenge
